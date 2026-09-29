@@ -86,14 +86,21 @@ PivotTables and PivotCharts were used to analyze:
 
 **Tool:** Microsoft Excel
 
-**Skills:**
-- Data Cleaning
-- Data Preprocessing
-- PivotTables & PivotCharts
-- KPI Analysis
-- Excel Slicers
-- Dashboard Development
-- Data Visualization
-- Business Insights
+**Skills Demonstrated:**
+- Data Cleaning | Data Preprocessing | PivotTables & PivotCharts | KPI Analysis | Excel Slicers | Dashboard Development | Data Visualization | Business Insights
 
 ---
+
+## 📝 Conclusion
+
+This project demonstrates the use of Microsoft Excel to transform raw Amazon sales data into meaningful business insights. Through data cleaning, PivotTable analysis, visualization, KPI tracking, and an interactive dashboard, the analysis provides a clear view of sales and order performance.
+
+---
+
+## 👤 Author
+
+**Hema Bonagiri**
+
+Data Analyst | SQL | Python | Excel | Power BI
+
+[LinkedIn]((https://www.linkedin.com/in/hema-bonagiri/)) | [GitHub]((https://github.com/hema-bonagiri))
