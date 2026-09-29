@@ -103,4 +103,3 @@ This project demonstrates the use of Microsoft Excel to transform raw Amazon sal
 
 Data Analyst | SQL | Python | Excel | Power BI
 
-[LinkedIn]((https://www.linkedin.com/in/hema-bonagiri/)) | [GitHub]((https://github.com/hema-bonagiri))
